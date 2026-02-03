@@ -6,19 +6,19 @@ export const getAsset = (path: string) => {
 
 const siteConfig = {
   personal: {
-    name: 'Put your name inside the quote',
-    title: 'Your Title | Your Role',
+    name: 'VIBHI MAHESHWARI',
+    title: 'Student',
     image: getAsset('images/profile.png'), // Customize or replace with your profile image
     description:
-      'Write a short bio here describing your background and focus. Keep it to 2–4 sentences.\n' +
+      'Undergraduate student pursuing a Bachelor’s degree in Economics with Data Science, with a strong interest in data analysis, research, and policy-oriented thinking. Experienced in academic projects, student leadership, and analytical writing, with a focus on using data to understand social and economic issues.\n' +
       '\n' +
-      'Mention your institution or company, areas of interest, and what you teach or build.\n' +
+      ' Undergraduate student at CHRIST (Deemed to be University), Bangalore, pursuing Economics with Data Science. Interested in data analysis, economic research, and public policy, with experience in academic projects, student leadership, and analytical writing. Focused on building data-driven insights and research-oriented work around social and economic issues.\n' +
       '\n' +
-      'Summarize your education or certifications briefly and highlight your practical work.\n' +
+      ' Bachelor’s student in Economics with Data Science at CHRIST (Deemed to be University), Bangalore. Gained hands-on experience through data analysis projects, research-based coursework, internships, and active roles in academic and student leadership initiatives.\n' +
       '\n' +
       'Optional: Add notable books, workshops, or training you deliver.',
-    tagline: 'Add a concise personal tagline here.',
-    location: 'Your City, Country',
+    tagline: ' Turning data into insights that explain real-world economic stories.',
+    location: ' Bangalore, India',
   },
 
   seo: {
